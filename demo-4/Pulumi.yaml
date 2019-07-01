@@ -1,0 +1,3 @@
+name: demo-4
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program
